@@ -1,14 +1,8 @@
-Dedicatória
-===========
-
-### 
+# 
 
 *Para os meus alunos.*
 
-Uma questão problemática
-========================
-
-### 
+# Uma questão problemática
 
 Dada a questão “o que é loucura”, imaginei inicialmente um livro em que
 a própria loucura tivesse expressão. Um livro escrito na primeira
@@ -167,10 +161,7 @@ Michel Foucault. A meu ver a sua *História da Loucura* é uma obra
 decisiva para quem deseja apreender o sentido tanto de uma ciência da
 loucura, como da própria loucura.
 
-Doença mental ou desvio social
-==============================
-
-### 
+# Doença mental ou desvio social
 
 As intenções deste livro dispensam-nos da aventura que seria entrar no
 interior da Psiquiatria (isto é, disciplina científica contemporânea
@@ -613,10 +604,7 @@ Falta à Etnopsiquiatria o que faltou às demais abordagens que examinamos
 até agora: a compreensão de que “a loucura é muito mais *histórica* do
 que se acredita geralmente, mas muito mais *jovem* também”.
 
-Uma lição etnológica
-====================
-
-### 
+# Uma lição etnológica
 
 Através do estudo de outras culturas podemos tomar consciência de
 aspectos de nossa própria sociedade. Porém, a questão que esse estudo
@@ -812,12 +800,7 @@ sagrado. Nessas sociedades, o louco é reconhecido e aceito como
 diferente. No entanto, é preciso ficar bem claro, diversidade não é
 necessariamente doença.
 
-A determinação histórica da loucura
-===================================
-
-### 
-
-​
+# A determinação histórica da loucura
 
 A definição da loucura em termos de “doença” é uma operação
 relativamente recente na história da civilização ocidental. O texto
@@ -861,7 +844,7 @@ confusamente implicadas, uma existindo pela
 relação com a outra, numa experiência indivisa que acabou por
 se dividir.
 
-*Michel Foucault.*
+(imagem 47)
 
 No mundo moderno das doenças mentais, o homem não se comunica mais com o
 louco. Dado o corte razão/não-razão, há, por um lado, o homem racional
@@ -1062,7 +1045,7 @@ No século XV, através da literatura e da filosofia a loucura insere-se
 num universo moral. O Mal não marca o advento do fim dos tempos e do
 mundo, mas é erro e defeito.
 
-*Os quatro cavaleiros do Apocalipse.* (Dürer)
+(imagem 57)
 
 Ora, quem são os passageiros da “Nau dos Loucos”? “São os avaros, os
 delatores, os bêbados. São os que se entregam à desordem e à devassidão;
@@ -1444,6 +1427,8 @@ e o preço de o homem ter história, contrariamente ao animal. O medo da
 loucura encontra-se ligado ao temor das conseqüências do devir do
 próprio homem.
 
+(imagem 75)
+
 Em suma, o medo desses focos do mal que são as casas de internamento
 acaba por redimensionar a loucura entre as preocupações sociais. No
 entanto, ao mesmo tempo em que surge esse medo, no interior das casas de
@@ -1611,7 +1596,7 @@ do desatino foram dele afastadas, tudo isso é que faz do internamento um
 lugar amplamente privilegiado pela loucura: o lugar de sua verdade e o
 lugar de sua abolição.” O internamento ganha valor terapêutico: torna-se
 asilo. A loucura torna-se objeto médico: ganha o valor de doença. E a
-ligação entre o asilo e a doença forja-se como uma relação necessária
+ligação entre o asilo e a doença forja-se como uma relação necessária.
 
 Ligados ao surgimento do asilo figuram os nomes de S. Tuke, na
 Inglaterra e de Ph. Pinel, na França. Tuke não era médico, mas membro de
@@ -1649,7 +1634,7 @@ influenciados pela compreensão e pelos sentimentos e até que ponto podem
 usufruir benefícios da liberdade, comodidade e dos costumes usuais das
 pessoas sãs”.
 
-*O sonho da razão produz monstros* **–** *Goya.*
+(imagem 85)
 
 Na França, são semelhantes as técnicas empregadas por Pinel, que
 construiu em torno dos loucos um círculo invisível de julgamentos
@@ -2020,8 +2005,7 @@ interioridade venha a ser regatada, gostaria de lembrar aqui mais
 algumas palavras de Marcuse: “Nem mesmo o supremo advento da liberdade
 poderá redimir aqueles que morrem na dor.”
 
-*Raphael: nanquim sobre papel.* (Museu de Imagens do Incosciente,
-*Funarte, Rio de Janeiro, 1980)*
+(imagem 103)
 
 \* \* \*
 
@@ -2047,10 +2031,7 @@ margaridas.”
 Museu de Imagens do Inconsciente, Rio de Janeiro. XVI Bienal de São
 Paulo.
 
-Posfácio à 9ª edição
-====================
-
-### 
+# Posfácio à 9ª edição
 
 Passados 10 anos da 1ª edição deste livro e pouco mais de 30 da
 publicação de *História da loucura na época clássica* (1961), ainda é
@@ -2095,7 +2076,7 @@ com relação à anormalidade. E se o livro de Foucault tem, no plano das
 idéias, um papel inaugural, é no posfácio à 2ª edição que o autor ensaia
 uma previsão:
 
-“Talvez um dia não saibamos mais o que pode ser a loucura. Sua figura se
+>“Talvez um dia não saibamos mais o que pode ser a loucura. Sua figura se
 fechará sobre si mesma, não mais permitindo decifrar os traços que ela
 deixou \[…\] Artaud pertencerá ao solo de nossa linguagem e não à sua
 ruptura; as neuroses pertencerão às formas constitutivas (e não os
@@ -2184,10 +2165,7 @@ imagens da origem sejam contaminadas pelo horror derrisório?” Perguntas
 como essas são muito difíceis de responder. No entanto, os canibais que
 têm frequentado a mídia, talvez, tenham algo a dizer.
 
-Indicações para leitura
-=======================
-
-### 
+# Indicações para leitura
 
 *Sobre a visão da Psiquiatria*, o leitor poderá consultar, inicialmente,
 *A Psicologia do Anormal e a Vida Contemporânea* (Pioneira, 2 volumes)
@@ -2275,7 +2253,7 @@ para o português, sugiro, pela variedade de questões tratadas,
 *Microfísica do Poder.* Rio de Janeiro, Graal, 1979, que conta com uma
 bela Introdução de Roberto Machado.
 
-**Sobre o autor**
+# Sobre o autor
 
 João A. Frayze-Pereira é Professor de Psicologia Social e de Psicologia
 da Arte no Instituto de Psicologia da USP. Coordena o recém-criado
